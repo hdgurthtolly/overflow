@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 const Home = () => {
   return (
-    <h1 className="text-3xl text-black font-black">
-      Welcome to NextJS Harry
-    </h1>
-  )
-}
+    <h1 className='text-3xl font-black text-black'>Welcome to NextJS Harry</h1>
+  );
+};
 
-export default Home
+export default Home;
