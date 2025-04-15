@@ -37,5 +37,13 @@
     "editor.defaultFormatter": null,
     "editor.formatOnSave": false
   },
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.exclude": {
+    "**/.node_modules": true,
+    "**/.next": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.vscode": true,
+    "next-env.d.ts": true,
+  }
 }
