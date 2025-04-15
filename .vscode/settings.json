@@ -43,7 +43,7 @@
     "**/.next": true,
     "**/.git": true,
     "**/.DS_Store": true,
-    "**/.vscode": true,
+    // "**/.vscode": true,
     "next-env.d.ts": true,
   }
 }
